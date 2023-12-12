@@ -98,7 +98,7 @@ plugins:
   - search:
       lang: 
         - en
-        - vi
+        # - vi
   - meta-descriptions
   - git-revision-date-localized:
       type: date
