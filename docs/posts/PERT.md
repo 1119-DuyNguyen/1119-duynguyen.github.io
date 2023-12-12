@@ -13,7 +13,7 @@ modified_at: 2023-12-12
 ---
 # PERT
 
-![](Pasted%20image%2020231212182856.png)
+![](../assets/img/Pasted image 20231212182856.png)
 
 ---
 # References (lý thuyết + thực hành)
