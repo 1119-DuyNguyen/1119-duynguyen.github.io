@@ -1,6 +1,6 @@
 ---
 title: Trang chủ
-template: index.html
+template: main.html
 hide:
   - navigation
   - toc
