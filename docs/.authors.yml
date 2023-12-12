@@ -3,3 +3,5 @@ authors:
     name: Nguyễn Thanh Duy
     description: Lập trình viên
     avatar: https://avatars.githubusercontent.com/u/62139508?v=4
+    slug: dev           # Author profile slug
+    url: https://github.com/1119-DuyNguyen            # Author website URL
