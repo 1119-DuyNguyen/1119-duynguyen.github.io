@@ -1,8 +1,8 @@
 ---
-title: Tags
+title: Về bản thân
 hide:
   - navigation
   - toc
 hidden: true
 ---
-[TAGS]
+Hôm nay

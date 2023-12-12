@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&display=swap');
 /* UNCOMMENT THIS LINE TO ADD ANY BACKGROUND IN THE HEADER
 DONT FORGET TO EDIT THE URL
 .md-header,
@@ -46,4 +47,12 @@ DONT FORGET TO EDIT THE URL
 
 .admonition.wiki table {
     border: 0;
+}
+*{
+    font-family: inherit;
+}
+body{
+    font-family: 'Be Vietnam Pro','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+    word-spacing: 4px;
 }

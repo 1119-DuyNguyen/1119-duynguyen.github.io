@@ -2,6 +2,14 @@
 dg-publish: "true"
 dg-home: "true"
 share: "true"
+date: 2023-01-31
+authors: 
+    - duy
+tags:
+  - HTML5
+  - JavaScript
+  - CSS
+
 ---
 
 The dg-home setting tells the plugin that this should be your home page or entry into your digital garden. (It only needs to be added to _one_ note, not every note you'll publish).
