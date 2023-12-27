@@ -38,8 +38,8 @@ theme:
         - navigation.tabs.sticky
         - navigation.expand
         - navigation.top
-        - navigation.instant
-        - navigation.instant.progress
+        # - navigation.instant
+        # - navigation.instant.progress
         - navigation.tracking
         - search.suggest
         - search.highlight
