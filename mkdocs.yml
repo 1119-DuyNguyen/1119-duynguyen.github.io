@@ -1,6 +1,6 @@
 site_name: Duy Blog # Change this to your site name
 site_description: Blog của thanh duy
-site_url: 1119-duynguyen.github.io/my-blog-github/ # Change this to your site URL
+site_url: 1119-duynguyen.github.io/my-blog-github # Change this to your site URL
 repo_url: github.com/1119-DuyNguyen/my-blog-github
 theme:
     name: 'material'
