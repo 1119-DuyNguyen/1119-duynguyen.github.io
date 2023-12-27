@@ -38,13 +38,13 @@ theme:
         - navigation.tabs.sticky
         - navigation.expand
         - navigation.top
-        # - navigation.instant
+        - navigation.instant
         # - navigation.instant.progress
         - navigation.tracking
         - search.suggest
         - search.highlight
         - header.autohide
-        # - navigation.path
+        - navigation.path
         
 # Extensions
 markdown_extensions:
