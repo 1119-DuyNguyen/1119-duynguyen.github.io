@@ -85,7 +85,7 @@ markdown_extensions:
 plugins:
   # - meta
   - blog:
-      blog_dir: ../
+      blog_dir: .
       pagination: true
       pagination_per_page: 10
       # authors_profiles: true
