@@ -6,7 +6,7 @@ theme:
     name: 'material'
     logo: assets/meta/favicons.png
     favicon: assets/meta/favicons.png
-    # custom_dir: overrides
+    custom_dir: overrides
     font:
         text: Ubuntu
         code: Ubuntu Mono
@@ -38,8 +38,8 @@ theme:
         - navigation.tabs.sticky
         - navigation.expand
         - navigation.top
-        - navigation.instant
-        - navigation.instant.progress
+        # - navigation.instant
+        # - navigation.instant.progress
         - navigation.tracking
         - search.suggest
         - search.highlight
@@ -95,7 +95,7 @@ plugins:
   - search:
       lang: 
         - en
-        - vi
+        # - vi
   - meta-descriptions
   - git-revision-date-localized:
       type: date
