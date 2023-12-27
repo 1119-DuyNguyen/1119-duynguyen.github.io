@@ -92,9 +92,9 @@ plugins:
       archive: false
       pagination_format: "~2~"
       pagination_if_single_page: false
-  - search:
-      lang: 
-        - en
+  # - search:
+  #     lang: 
+  #       - en
         # - vi
   - meta-descriptions
   - git-revision-date-localized:
