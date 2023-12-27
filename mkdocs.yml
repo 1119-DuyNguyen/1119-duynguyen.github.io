@@ -44,7 +44,7 @@ theme:
         - search.suggest
         - search.highlight
         - header.autohide
-        - navigation.path
+        # - navigation.path
         
 # Extensions
 markdown_extensions:
